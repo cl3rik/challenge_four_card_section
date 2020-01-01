@@ -1,0 +1,76 @@
+/* General */
+
+body{
+    color: #4C4E61;
+    font-family: "Poppins";
+}
+
+h1{
+    font-weight: 200;
+}
+
+h1.strong{
+    font-weight: 600;
+}
+
+h2{
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 2;
+}
+
+h3{
+    color: #A3A5AE;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 1rem;
+    margin: 2% 28%;
+}
+
+/* Sections */
+
+#top{
+    text-align: center;
+    padding: 5% 2%;
+}
+
+#cards{
+    margin: 0 5%;
+}
+
+
+/* Item Card */
+
+.card{
+    padding: 10%;
+    border-radius: 8px;
+    box-shadow: 0px 10px 15px 0px rgba(163,165,174,0.4);
+    margin-bottom: 10%;
+}
+.card p{
+    color: #A3A5AE;
+    font-size: 0.8rem;
+    font-weight: 300;
+}
+
+.card img{
+    width: 64px;
+}
+
+.icon {
+    margin-top: 10%;
+    text-align: right;
+}
+
+.card-supervisor{
+    border-top: solid 4px #45D3D3;    
+}
+.card-teambuilder{
+    border-top: solid 4px #E84545;
+}
+.card-karma{
+    border-top: solid 4px #FCAF4A;
+}
+.card-calculator{
+    border-top: solid 4px #3399FF;
+}
