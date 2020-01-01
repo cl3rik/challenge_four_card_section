@@ -3,6 +3,7 @@
 body{
     color: #4C4E61;
     font-family: "Poppins";
+    background-color: #FAFAFA;
 }
 
 h1{
@@ -31,7 +32,7 @@ h3{
 
 #top{
     text-align: center;
-    padding: 3% 2%;
+    padding: 8% 2% 3%;
 }
 
 #cards{
